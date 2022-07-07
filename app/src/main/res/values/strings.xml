@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebviewTest</string>
+    <string name="bottom_sheet_dialog">bottomSheet dialog</string>
+    <string name="qrcode">QRCode</string>
+</resources>
